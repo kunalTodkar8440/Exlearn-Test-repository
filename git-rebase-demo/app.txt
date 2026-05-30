@@ -1,1 +1,2 @@
 e-commere application
+auth module added
